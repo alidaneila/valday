@@ -11,13 +11,13 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
+    "ih yakin nih?? 🤔",
     "Pookie please... 🥺",
     "If you say no, I will be really sad...",
     "ih nei sedih bangettt... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
+    "jangan....",
+    "Last chance yaah! 😭",
     "You can't catch me anyway wleek 😜"
 ]
 
